@@ -1,0 +1,74 @@
+.body {
+  background-color: #e0e0e0;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+.col a:hover {
+  color: #fedc3d;
+}
+
+a:active {
+  color: #fedc3d;
+}
+
+#name {
+  font-family: "Alfa Slab One";
+  font-weight: bold;
+  font-size: 104px;
+  text-align: center;
+  color: #1d1b1f;
+  padding-top: 250px;
+}
+
+#subheader {
+  font-family: "Alfa Slab One";
+  font-weight: bold;
+  font-size: 64px;
+  color: #1d1b1f;
+  padding-top: 50px;
+}
+
+#text {
+  font-family: "Roboto";
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.introduction {
+  background-color: #fea680;
+  min-height: 700px;
+}
+
+.about {
+  background-color: #01abaa;
+}
+
+.about-text {
+  width: 500px;
+  text-align: justify;
+}
+
+.invis {
+  visibility: hidden;
+}
+
+.vidOne {
+  /*padding-left: 325px;*/
+  background-color: #fea680;
+  /*margin-right: 800px;*/
+}
+
+.vidTwo {
+  /*margin-left: 800px;
+  padding-right: 325px;
+  padding-left: 200px;*/
+  background-color: #01abaa;
+}
